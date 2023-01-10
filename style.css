@@ -1,0 +1,19 @@
+p { color: rgb(226, 68, 68);}
+header {background-color: beige;}
+footer p {color: bisque;
+font-style: italic;}
+.diffcolor {color:rgb(108, 108, 185);}
+footer {background-color: rgb(26, 23, 23);}
+#logo-image {
+    width: 100px;
+    height: 100px;
+}
+
+nav, ul, header {
+    display: flex;
+    
+    gap: 15px;
+    list-style: none;
+    padding: 20px 10px;
+    margin-bottom: 10px;
+}
